@@ -1,4 +1,4 @@
-# 👋 Belal Ahmed Siddiqui
+# 👋 Hi,There!
 
 ## About Me
 Welcome to my GitHub profile! I'm Belal Ahmed Siddiqui, a passionate individual with a background in both Bachelor's and Master's degrees. I completed my B.Tech from Aligarh Muslim University and pursuing my M.Tech from the esteemed Indian Statistical Institute. My academic journey has fueled my curiosity in various fields, with a particular interest in Data Science, Statistics, Machine Learning, Deep Learning, and Technical Writing.
@@ -18,3 +18,5 @@ Feel free to connect with me on various platforms:
 
 ## 🤝 Let's Collaborate
 I'm always eager to collaborate on exciting projects, share knowledge, and learn from fellow enthusiasts. If you have any ideas or suggestions, feel free to reach out! Let's create something amazing together.
+
+Sayonara!!!!
