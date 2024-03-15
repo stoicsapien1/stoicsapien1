@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm Belal Ahmed Siddiqui, a passionate individual 
 
 - **Book Recommendation System**: Utilizing collaborative filtering techniques, this project offers personalized book recommendations to users based on their preferences and reading history.
 
+-**And Many more.....*
+
 ## 🌐 Connect with Me
 Feel free to connect with me on various platforms:
 - **[LinkedIn](https://www.linkedin.com/in/stoicsapien1)**
