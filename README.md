@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm Belal Ahmed Siddiqui, a passionate individual 
 ## 🚀 Projects
 - **Blood Donation Prediction**: This project leverages predictive analytics to forecast blood donation patterns, aiming to streamline blood donation campaigns and improve blood supply management.
 
-- **Book Recommendation System**: Utilizing collaborative filtering techniques, this project offers personalized book recommendations to users based on their preferences and reading history.
+- **Book Recommendation System**: Utilizing collaborative filtering techniques, this project offers personalized book recommendations to users based on preferences and reading history of user with similar interest.
 
--**And Many more.....*
+- **And Many more.....*
 
 ## 🌐 Connect with Me
 Feel free to connect with me on various platforms:
