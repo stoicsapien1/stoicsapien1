@@ -1,11 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/main/assets/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/main/assets/banner.png" alt="Banner Image" width="100%">
 </p>
 
 <!-- Introduction -->
 <h1 align="center">👋 Hi there, I'm Belal Ahmed Siddiqui!</h1>
-
 <p align="center">
   <samp>
     🔭 I'm a Data Science enthusiast, currently pursuing my M.Tech from the Indian Statistical Institute. <br>
@@ -33,12 +32,11 @@
 
 <!-- Projects -->
 <h3 align="center">🚀 Projects</h3>
-
-- **Blood Donation Prediction**: This project leverages predictive analytics to forecast blood donation patterns, aiming to streamline blood donation campaigns and improve blood supply management.
-
-- **Book Recommendation System**: Utilizing collaborative filtering techniques, this project offers personalized book recommendations to users based on preferences and reading history of users with similar interests.
-
-- **And many more...**
+<ul>
+  <li><b>Blood Donation Prediction</b>: This project leverages predictive analytics to forecast blood donation patterns, aiming to streamline blood donation campaigns and improve blood supply management.</li>
+  <li><b>Book Recommendation System</b>: Utilizing collaborative filtering techniques, this project offers personalized book recommendations to users based on preferences and reading history of users with similar interests.</li>
+  <!-- Add other projects here -->
+</ul>
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools</h3>
@@ -54,11 +52,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoicsapien1&layout=compact&hide=html" alt="Top Languages"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stoicsapien1&show_icons=true" alt="GitHub Stats"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stoicsapien1" alt="GitHub Streak"/>
 </p>
