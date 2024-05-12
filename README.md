@@ -1,40 +1,70 @@
-# 👋 Hi, There!
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/main/assets/banner.png" width="100%">
+</p>
 
-## About Me
-Welcome to my GitHub profile! I'm Belal Ahmed Siddiqui, a passionate individual with a background in both Bachelor's and Master's degrees. I completed my B.Tech from Aligarh Muslim University and pursuing my M.Tech from the Indian Statistical Institute. My academic journey has fueled my curiosity in various fields, with a particular interest in Data Science, Statistics, Machine Learning, Deep Learning, and Technical Writing.
+<!-- Introduction -->
+<h1 align="center">👋 Hi there, I'm Belal Ahmed Siddiqui!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stoicsapien1&label=Profile%20views&color=0e75b6&style=flat" alt="stoicsapien1" /> </p>
+<p align="center">
+  <samp>
+    🔭 I'm a Data Science enthusiast, currently pursuing my M.Tech from the Indian Statistical Institute. <br>
+    🌱 My academic journey has fueled my curiosity in various fields, including Data Science, Statistics, and Technical Writing. <br>
+    💼 I'm passionate about leveraging data to gain insights and solve real-world problems. <br>
+    📚 I'm always learning and exploring new technologies and techniques in my field. <br>
+    🤝 I'm open to collaboration and eager to learn from fellow enthusiasts. <br>
+    💡 Let's connect and create something amazing together!
+  </samp>
+</p>
 
-## 🚀 Projects
+<!-- Connect with me -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/stoicsapien1" target="_blank">
+    <img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/main/assets/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/stoicsapien1" target="_blank">
+    <img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/main/assets/kaggle.svg" alt="Kaggle" width="40" height="40"/>
+  </a>
+  <a href="https://medium.com/@stoic_sapien1" target="_blank">
+    <img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/main/assets/medium.svg" alt="Medium" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Projects -->
+<h3 align="center">🚀 Projects</h3>
+
 - **Blood Donation Prediction**: This project leverages predictive analytics to forecast blood donation patterns, aiming to streamline blood donation campaigns and improve blood supply management.
 
 - **Book Recommendation System**: Utilizing collaborative filtering techniques, this project offers personalized book recommendations to users based on preferences and reading history of users with similar interests.
 
-- **And Many more...**
+- **And many more...**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/stoicsapien1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stoicsapien1/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/stoicsapien1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/stoicsapien1" height="30" width="40" /></a>
-<a href="https://medium.com/@stoic_sapien1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stoic_sapien1" height="30" width="40" /></a>
+<!-- Languages and Tools -->
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/main/assets/python.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/main/assets/mysql.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/main/assets/pandas.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/main/assets/scikit-learn.svg" alt="Scikit-learn" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/main/assets/seaborn.svg" alt="Seaborn" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoicsapien1&layout=compact&hide=html" alt="Top Languages"/>
 </p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=stoicsapien1&show_icons=true&locale=en&layout=compact" alt="stoicsapien1" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stoicsapien1&show_icons=true" alt="GitHub Stats"/>
+</p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=stoicsapien1&show_icons=true&locale=en" alt="stoicsapien1" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stoicsapien1" alt="GitHub Streak"/>
+</p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stoicsapien1&" alt="stoicsapien1" /></p>
+<!-- Collaboration -->
+<h3 align="center">🤝 Let's Collaborate</h3>
+<p align="center">I'm always eager to collaborate on exciting projects, share knowledge, and learn from fellow enthusiasts. If you have any ideas or suggestions, feel free to reach out! Let's create something amazing together.</p>
 
-## 🤝 Let's Collaborate
-I'm always eager to collaborate on exciting projects, share knowledge, and learn from fellow enthusiasts. If you have any ideas or suggestions, feel free to reach out! Let's create something amazing together.
-
-Sayonara!
+<p align="center">Sayonara! 👋</p>
