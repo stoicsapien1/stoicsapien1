@@ -3,7 +3,7 @@
 ## About Me
 Welcome to my GitHub profile! I'm Belal Ahmed Siddiqui, a passionate individual with a background in both Bachelor's and Master's degrees. I completed my B.Tech from Aligarh Muslim University and pursuing my M.Tech from the Indian Statistical Institute. My academic journey has fueled my curiosity in various fields, with a particular interest in Data Science, Statistics, Machine Learning, Deep Learning, and Technical Writing.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stoicsapien1&label=Profile%20views&color=0e75b6&style=flat" alt="stoicsapien1" /> </p>
+
 
 ## 🚀 Projects
 - **Blood Donation Prediction**: This project leverages predictive analytics to forecast blood donation patterns, aiming to streamline blood donation campaigns and improve blood supply management.
