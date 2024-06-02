@@ -32,7 +32,9 @@ Welcome to my GitHub profile! I'm Belal Ahmed Siddiqui, a passionate individual 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=stoicsapien1&show_icons=true&locale=en" alt="stoicsapien1" /></p>
 
+<img src="https://raw.githubusercontent.com/stoicsapien1/stoicsapien1/output/snake.svg" alt="Snake animation" />
 
+###
 
 ## 🤝 Let's Collaborate
 I'm always eager to collaborate on exciting projects, share knowledge, and learn from fellow enthusiasts. If you have any ideas or suggestions, feel free to reach out! Let's create something amazing together.
