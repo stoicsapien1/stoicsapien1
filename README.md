@@ -38,13 +38,9 @@ Here are some of the projects I've worked on:
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stoicsapien1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=stoicsapien1&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=stoicsapien1&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stoicsapien1&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stoicsapien1&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
