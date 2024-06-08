@@ -45,7 +45,7 @@ Here are some of the projects I've worked on:
 ---
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=stoicsapien1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=stoicsapien1&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 
 ## 🤝 Let's Collaborate
