@@ -38,15 +38,15 @@ Here are some of the projects I've worked on:
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=stoicsapien1&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stoicsapien1&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stoicsapien1&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=stoicsapien1&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+## 📁 Portfolio
+Check out my portfolio for more detailed information about my projects, skills, and experiences:
+[stoicsapien1.github.io](https://stoicsapien1.github.io)
 
+---
 
 ## 🤝 Let's Collaborate
 I'm always eager to collaborate on exciting projects, share knowledge, and learn from fellow enthusiasts. If you have any ideas or suggestions, feel free to reach out! Let's create something amazing together.
