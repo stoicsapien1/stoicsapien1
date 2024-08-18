@@ -29,12 +29,6 @@ Welcome to my GitHub profile! I'm **Belal Ahmed Siddiqui**, a passionate individ
 
 ---
 
-## 📁 Portfolio
-Check out my portfolio for more detailed information about my projects, skills, and experiences:
-[stoicsapien1.github.io](https://stoicsapien1.github.io)
-
----
-
 ## 🤝 Let's Collaborate
 I'm always eager to collaborate on exciting projects, share knowledge, and learn from fellow enthusiasts. If you have any ideas or suggestions, feel free to reach out! Let's create something amazing together.
 
