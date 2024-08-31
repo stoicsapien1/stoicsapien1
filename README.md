@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Belal+Ahmed+Siddiqui;Welcome+to+my+GitHub!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Belal+Ahmed+Siddiqui;Welcome+to+my+GitHub!;Data+Scientist;Machine+Learning&center=true&size=30&width=500&height=70&color=00BFFF&vCenter=true&pause=1000&speed=90">
 </h1>
+
+
 
 I'm a passionate individual with a robust academic background. I completed my B.Tech from **Aligarh Muslim University** and am currently pursuing my M.Tech from the **Indian Statistical Institute**. 
 
