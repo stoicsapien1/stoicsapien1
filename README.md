@@ -14,6 +14,7 @@ My academic journey has fueled my curiosity in various fields, with a particular
 - Statistics
 - Machine Learning
 - Technical Writing
+- Quantitative Finance
 
 ## 🌐 Connect with Me
 <p align="left">
