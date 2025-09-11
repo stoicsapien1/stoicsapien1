@@ -1,2 +1,2 @@
 Hi, I'm Belal 👋  
-I’m into 🤖 Machine Learning & Deep Learning
+I’m into 🤖 Quantitative Risk Modelling, Machine Learning & Deep Learning
